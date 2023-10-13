@@ -31,14 +31,6 @@ npm start
 - Sorting options.
 - Pagination.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow the standard GitHub workflow:
-
-1. Fork the repository.
-2. Create a new branch for your feature/fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Create a pull request.
 
 
