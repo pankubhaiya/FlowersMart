@@ -35,7 +35,7 @@ const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch(`http://localhost:9090/user/login`, {
+    fetch(`https://flowermartbackend.onrender.com/user/login`, {
       method: "POST",
       headers: {
         'Accept': 'application/json',

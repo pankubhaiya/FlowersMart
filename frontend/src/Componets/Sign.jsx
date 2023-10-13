@@ -41,7 +41,7 @@ const Sign = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch(`http://localhost:9090/user/sign`, {
+    fetch(`https://flowermartbackend.onrender.com/user/sign`, {
       method: "POST",
       headers: {
         'Accept': 'application/json',
